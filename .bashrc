@@ -147,3 +147,5 @@ export EDITOR=nvim
 alias ll="ls -l"
 alias config='/usr/bin/git --git-dir=/home/leonhard/.cfg/ --work-tree=/home/leonhard'
 alias nvimdiff="nvim -d"
+
+export BROWSER="/usr/bin/firefox"
